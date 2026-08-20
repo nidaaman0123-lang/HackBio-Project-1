@@ -1,8 +1,12 @@
-# HackBio Stage 0 - Project 1
+# HackBio Stage 0
 
 ## Student Information
 
 **Name:** Nida Aman
+
+---
+
+# Project 1: BASh Basic
 
 ## Project Results
 
@@ -14,10 +18,47 @@
 - **Source:** Xanthomonas citri
 - **Gene:** lexA
 
-## Files
+## Project 1 Files
 
-- `stage0_project1.sh` - Bash script used for the analysis
-- `README.md` - Project documentation
-- `wildtype.fna` - FASTA sequence
-- `wildtype1.gbk` - GenBank annotation
-- `mutant_matches.txt` - Lines containing the pattern `tatatata`
+- `stage0_project1.sh` - Bash script used for Project 1
+- `wildtype.fna` - FASTA sequence file
+- `wildtype1.gbk` - GenBank annotation file
+- `mutant_matches.txt` - Lines containing the `tatatata` pattern
+
+---
+
+# Project 2: Installing Bioinformatics Software
+
+A Conda environment named `funtools` was created and the required bioinformatics software was installed.
+
+## Software Installed
+
+- Figlet
+- BWA
+- BLAST
+- SAMtools
+- BEDtools
+- SPAdes
+- BCFtools
+- fastp
+- MultiQC
+
+## Project 2 File
+
+- `stage0_project2.sh` - Bash script containing the commands used for Project 2
+
+---
+
+# GitHub Submission
+
+GitHub repository:
+
+https://github.com/nidaaman0123-lang/HackBio-Project-1
+
+---
+
+# Professional Profile
+
+## LinkedIn/X Team Video
+
+Team video link will be added here after the video is uploaded.
